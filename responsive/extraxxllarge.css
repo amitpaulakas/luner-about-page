@@ -1,0 +1,21 @@
+@media (max-width: 1399.98px) { 
+    #Footer1_part{
+      
+            margin-top: -300px;
+            user-select: auto;
+        
+    }
+    .startegy_title h3 {
+        
+        font-size: 17px;
+        font-style: normal;
+    
+    }
+    .footeritem3_links a{
+        display: block;
+    }
+    .form_background {
+        width: 1115px;
+        height: 756px;
+    }
+ };

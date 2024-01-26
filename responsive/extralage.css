@@ -1,0 +1,24 @@
+
+@media (max-width: 1199.98px) { 
+
+   .form_background {
+      width: 934px;
+      height: 756px;
+  }
+  .form_display{
+   margin-left: -60px;
+  }
+  .form-title::after {
+   
+   top: 284px;
+   left: 6px;
+}
+.startegy_title h3 {
+   font-size: 14px;
+
+}
+
+   }
+
+
+   

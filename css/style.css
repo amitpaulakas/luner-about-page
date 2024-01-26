@@ -5,6 +5,7 @@
     padding: 0;
     outline: 0;
     box-sizing: border-box;
+    
 
 }
 ul,ol{
@@ -23,7 +24,7 @@ h1,h2,h3,h4,h5,h6,p,div,span,ul,li,img,body{
 }
 body{
     font-family: 'Poppins', sans-serif;
-    
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -135,13 +136,13 @@ line-height: 137.2%; /* 71.344px */
     margin-top: 61px;
  color: var(--Black, #000);
 text-align: justify;
-font-size: 20px;
+font-size: 17px;
 }
 .about-text2{
     margin-top: 191px;
     color: var(--Black, #000);
 text-align: justify;
-font-size: 20px;
+font-size: 17px;
 }
 .about-image2 picture img{
    margin-left: -134px;
@@ -157,13 +158,14 @@ font-size: 20px;
 .form_background{
     width: 1285px;
     height: 756.555px;
-    background-color: blue;
+    background-color: #e2daecc4;
     align-items: center;
     border-radius:15px ;
     -webkit-border-radius:15px ;
     -moz-border-radius:15px ;
     -ms-border-radius:15px ;
     -o-border-radius:15px ;
+    margin-bottom: 137px;
 }
 .form-title{
     color: var(--Black, #000);
@@ -375,3 +377,133 @@ color: #fff;
 
 }
 /* form csss end */
+
+/* ********************************
+           startegy  css start 
+************************************************** */
+
+.startegy_title p{
+    color: #000;
+text-align: center;
+font-size: 52px;
+font-style: normal;
+font-weight: 700;
+margin-bottom: 18px;
+}
+.startegy_title h3{
+    color: #32046B;
+text-align: center;
+font-size: 21px;
+font-style: normal;
+font-weight: 600;
+line-height: 42px;
+margin-bottom: 80px;
+}
+.startegy_title a{
+   align-items: center;
+   text-align: center;
+   color: var(--White, #FFF);
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 600;
+   padding: 26px 23px 13px;
+   border-radius:25px ;
+   background-color: var(--secendary_bckground_color);
+   -webkit-border-radius:25px ;
+   -moz-border-radius:25px ;
+   -ms-border-radius:25px ;
+   -o-border-radius:25px ;
+   transition: all linear .5s;
+   -webkit-transition: all linear .5s;
+   -moz-transition: all linear .5s;
+   -ms-transition: all linear .5s;
+   -o-transition: all linear .5s;
+}
+.startegy_title a:hover{
+    background-color: transparent;
+    border: 1px solid var(--secendary_bckground_color);
+    color: black;
+}
+.stategy_button{
+   margin-bottom: 20px;
+    text-align: center;
+}
+/* ********************************
+           stategy css end 
+************************************************** */
+
+/* ********************************
+           Footer css start 
+************************************************** */
+#Footer1_part{
+    background: url(../images/Vector\ \(1\).png);
+    padding: 631px 06px 17px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footerItem1__details{
+    color: #FFF;
+font-size: 16px;
+font-weight: 500;
+line-height: 31.5px; 
+letter-spacing: 0.2px;
+margin-top: 40px;
+}
+.footerItem1__details a{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 31.5px; 
+    letter-spacing: 0.2px;
+}
+.footer_social a{
+   margin-left: 10px;
+    color: white;
+    margin-top: 40px;
+}
+.footerItem2__all{
+    color: white;
+}
+.footerItem2__Links{
+    margin-top: 26px;
+}
+.footerItem2__title{
+    color: #FFF;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 31.5px; /* 143.182% */
+letter-spacing: 0.2px;
+}
+.footerItem2__Links a{
+    color: wheat;
+    
+}
+.footerItem3__title p{
+    color: #FFF;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 31.5px;
+    letter-spacing: 0.2px;
+    margin-bottom: 26px;
+}
+.footeritem3_links{
+    
+}
+.footeritem3_links a{
+    color: wheat;
+}
+.footerItem4Box{
+    max-width: 291px;
+  height: 200px;
+  border-radius: 20px;
+  background: #9a48ff;
+  box-shadow: 0px 69px 114px 0px rgba(124, 20, 253, 0.08);
+  margin-top: 15px;
+}
+/* ********************************
+           footer css end 
+************************************************** */

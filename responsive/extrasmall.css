@@ -1,0 +1,56 @@
+@media (max-width: 374.98px) {
+    
+    .banneritemtext_child1{
+        color: var(--Black, #000);
+    font-size: 28px;}
+
+
+    .banneritemtext_child1::after{
+width: 50px;
+    }
+    .about-text1{
+        width: 328px;
+    }
+    .about-text2{
+        width: 328px;
+    }
+    .form_background  {
+        width: 276px;
+    }
+    .form-title::after {
+        margin-left: -199px;
+        margin-top: 111px;
+    }
+    .form_display {
+     margin-left: 1px;
+    }
+    .name {
+        width: 235px;  
+    }
+    .e-mail {
+        width: 235px;
+        
+    }
+.Subject{
+    width:235px ;
+}
+.textbox1{
+    width: 235px;
+}
+.formsubbutton1 {
+    padding: 10px 20px;
+   
+}
+#stategypart .strangerpicture1 .strangeimg img {
+    margin-top: 500px;
+}
+.startegy_title h3 {
+    font-size: 21px;
+}
+#Footer1_part{
+    margin-top: -600px;
+}
+
+       }
+    
+      

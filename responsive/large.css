@@ -1,0 +1,58 @@
+@media (max-width: 991.98px) { 
+
+    .form_background{
+     width: 695px;
+     text-align: center;
+  }
+  .formtitle2{
+    margin-top: 250px;
+  }
+  .formlist{
+    margin-left: 126px;
+  }
+  #stategypart .strangerpicture1 .strangeimg img{
+    margin-top: 300px;
+  }
+  #Footer1_part{
+    padding: 631px 06px 17px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.alltexts{
+  margin-top: 250px;
+
+}
+.footerItem2__all{
+  text-align: center;
+}
+.footerItem3alllinks{
+  text-align: center;
+}
+.footerItem4{
+  margin: auto;
+}
+.footerItem2__Links a{
+  display: block;
+  }
+  .footerItem2__Links a:hover{
+    color: #fff;
+    }
+  .footeritem3_links a{
+    display: block;
+  }
+  .footerItem4,.footerItem4Box{
+    margin: auto;
+  }
+  .form-title::after {
+    position: absolute;
+    content: "";
+    height: 5px;
+    width: 150px;
+    border-radius: 1000px;
+    background: linear-gradient(90deg, #7C14FD 1.09%, rgba(124, 20, 253, 0.29) 99.99%);
+    top: 171px;
+    left: 265px;
+}
+   }

@@ -1,0 +1,48 @@
+@media (max-width: 767.98px) {
+    .form_background{
+      width: 524px;
+      align-items: center;
+      text-align: center;
+  }
+  .form-title::after{
+    margin-left: 190px;
+    margin-top: -50px;
+  }
+  .formtitle2{
+    margin-top: 187px;
+    text-align: left;
+  }
+  
+ 
+.startegy_title h3{
+  font-size: 15px;
+}
+
+#Footer1_part {
+  
+  padding: 816px 06px 17px;
+  
+}
+.footerItem2__Links a{
+display: block;
+}
+.footerItem2__Links a:hover{
+  color: #fff;
+  }
+.footeritem3_links a{
+  display: block;
+}
+.strangerpicture1 img{
+  margin-top: 286px;
+}
+/* #stategypart .strangeimg picture{
+  margin-top: 250px;
+} */
+.strangerpicture2{
+  position: relative;
+}
+.strangerpicture2 picture img{
+  
+  margin-top: 20px;
+}
+   }
